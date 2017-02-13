@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/linux
 
 ### Linux ###
@@ -21,6 +22,7 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+=======
 # Created by https://www.gitignore.io/api/python
 
 ### Python ###
@@ -117,3 +119,4 @@ ENV/
 .ropeproject
 
 # End of https://www.gitignore.io/api/python
+>>>>>>> 7ea6943f517b9f172b2a6b98ef51726b69d32e3a
